@@ -1,0 +1,16 @@
+total 755
+drwxr-xr-x 1 YUHAN 197121      0 Apr 30 15:06 ./
+drwxr-xr-x 1 YUHAN 197121      0 Apr 30 12:48 ../
+drwxr-xr-x 1 YUHAN 197121      0 Apr 30 15:05 .git/
+-rw-r--r-- 1 YUHAN 197121   7788 Apr 30 12:48 .gitignore
+-rw-r--r-- 1 YUHAN 197121 714568 Apr 30 12:48 08_oss_github.pdf
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 15:06 3way.txt
+-rw-r--r-- 1 YUHAN 197121  35823 Apr 30 12:48 LICENSE
+-rw-r--r-- 1 YUHAN 197121    151 Apr 30 12:48 README.md
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 abc.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 ggg.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 lhs.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 llj.txt
+-rw-r--r-- 1 YUHAN 197121    103 Apr 30 14:49 ls1.txt
+-rw-r--r-- 1 YUHAN 197121     90 Apr 30 12:48 new.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 work.txt
