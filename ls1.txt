@@ -1,10 +1,14 @@
-08_oss_github.pdf
-LICENSE
-README.md
-abc.txt
-ggg.txt
-lhs.txt
-llj.txt
-ls1.txt
-new.txt
-work.txt
+total 744
+-rw-r--r-- 1 YUHAN 197121 714568 Apr 30 12:48 08_oss_github.pdf
+-rw-r--r-- 1 YUHAN 197121    842 Apr 30 15:09 3way.txt
+-rw-r--r-- 1 YUHAN 197121  35823 Apr 30 12:48 LICENSE
+-rw-r--r-- 1 YUHAN 197121    151 Apr 30 12:48 README.md
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 abc.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 ggg.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 lhs.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 llj.txt
+-rw-r--r-- 1 YUHAN 197121      0 May  7 14:17 ls1.txt
+-rw-r--r-- 1 YUHAN 197121    101 Apr 30 15:07 ls2.txt
+-rw-r--r-- 1 YUHAN 197121    138 May  7 13:42 ls3.txt
+-rw-r--r-- 1 YUHAN 197121     90 Apr 30 12:48 new.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 30 12:48 work.txt
